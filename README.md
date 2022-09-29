@@ -1,4 +1,4 @@
-# Take Home Project
+# Take Home Web Api Project
 
 <p align="left">
  This is an OpenAPI  compliant web service that abstracts away two downstream APIs; the Chuck Norris API and the Star Wars API. 
