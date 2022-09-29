@@ -20,7 +20,7 @@ namespace TestApplication.Controllers
   }
   [Route("[controller]")]
     [ApiController]
-    public class  Controller : ControllerBase
+    public class  SearchController : ControllerBase
     {
         // GET: api/Search
         [HttpGet]
